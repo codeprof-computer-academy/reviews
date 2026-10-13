@@ -1,0 +1,44 @@
+@media(max-width:450px){
+
+
+header{
+    
+    height: 120px;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+
+
+
+
+header > nav{
+    gap:20px;
+}
+
+
+
+
+main{
+ 
+    height: fit-content;
+    padding: 20px;
+}
+
+
+main > section{
+   
+    flex-direction: column;
+    margin: 50px 0;
+
+}
+
+
+
+
+
+
+}
